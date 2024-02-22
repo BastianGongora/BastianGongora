@@ -5,7 +5,7 @@ Soy Bastian Luis Antonio Góngora Barrera, un apasionado Analista Programador Co
 
 
 ## Acerca de mí
-- 📚 Estoy cursando un programa de Java FullStack Trainee para ampliar mis habilidades en desarrollo web.
+- 📚 Estoy cursando un programa de Desarrollo de Aplicaciones Móviles Trainee para ampliar mis habilidades.
 - 📊 Tengo experiencia trabajando con bases de datos como MySQL y SQL Server, lo que me permite gestionar y manipular datos de manera efectiva.
 - 👨‍💻 Poseo conocimientos en HTML5, CSS, JavaScript y jQuery, lo que me permite crear sitios web visualmente atractivos y con funcionalidades interactivas.
 
